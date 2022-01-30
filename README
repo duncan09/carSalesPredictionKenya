@@ -1,0 +1,4 @@
+This is a project for scraping cars and car prices from a website in Kenya and finding out the factors that influence the prices of cars. I scraped the data from used cars Kenya and used Python and Jupyter Notebooks for the analysis.
+The analysis is not complete in this note notebook because the correlation matrix shows very little correlation and the features i extracted from scikit-learn require that i re-look into the data.
+So i decided to look into the data again!
+But the notebook still shows my progress so i decided to include it
